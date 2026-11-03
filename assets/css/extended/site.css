@@ -5,9 +5,7 @@
 }
 
 html[data-theme="light"] body {
-    background:
-        radial-gradient(ellipse at 50% 0%, rgba(72, 126, 255, .09), transparent 42%),
-        #f8fafc;
+    background: #f8fafc;
 }
 
 html[data-theme="light"] {
