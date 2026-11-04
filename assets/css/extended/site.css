@@ -36,6 +36,11 @@ html[data-theme="light"] .post-entry:focus-within {
     font-size: 13px;
 }
 
+.home-latest-header h1 {
+    font-size: 24px;
+    margin-left: 12px;
+}
+
 .toc-container.wide {
     border-left-color: var(--border);
 }
@@ -46,15 +51,6 @@ html[data-theme="light"] .post-entry:focus-within {
 
 .toc-container.wide .toc li a {
     color: var(--secondary);
-}
-
-.toc-container.wide .toc li a:hover,
-.toc-container.wide .toc li a.active {
-    color: #2b55f5;
-}
-
-html[data-theme="light"] .menu .active {
-    color: #2b55f5;
 }
 
 .home-info {
