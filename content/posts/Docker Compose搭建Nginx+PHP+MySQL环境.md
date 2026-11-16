@@ -5,7 +5,6 @@ tags:
   - Docker
 categories:
   - 容器
-description: 使用 Docker Compose 编排 Nginx、PHP-FPM 和 MySQL 三个容器,包括镜像选择、Dockerfile、目录结构、compose 配置、启动停止以及 PHP 连接 MySQL 的验证。
 ---
 
 本文通过一个 demo,使用 Docker Compose 一键编排 **Nginx + PHP-FPM + MySQL** 三个容器,搭建一套常见的 PHP 运行环境,并验证 PHP 能够连接 MySQL。

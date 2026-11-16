@@ -3,7 +3,6 @@ title: Hexo安装和使用
 date: 2026-10-12 10:00:00
 tags:
   - Hexo
-description: 从零开始安装 Hexo,配置 NexT 主题,并整理常用命令与常见问题。
 ---
 
 Hexo 是一个基于 Node.js 的快速、简洁的静态博客框架,支持 Markdown 写作,可以一键部署到 GitHub Pages、Vercel 等平台。本文介绍 Hexo 的安装流程、NexT 主题的安装与配置,以及日常使用的常用命令。

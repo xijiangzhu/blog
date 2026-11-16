@@ -5,7 +5,6 @@ tags:
   - tcpdump
 categories:
   - Linux
-description: 整理 tcpdump 的常用选项,以及抓取 MySQL、HTTP 数据包的实例和过滤表达式说明。
 ---
 
 `tcpdump` 是 Linux 下常用的命令行抓包工具,可以按条件捕获网络接口上的数据包,用于排查网络问题和分析协议。本文整理它的常用选项,并给出抓取 MySQL 和 HTTP 数据包的实例。

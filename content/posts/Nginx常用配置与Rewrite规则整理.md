@@ -5,7 +5,6 @@ tags:
   - Nginx
 categories:
   - Linux
-description: 整理 Nginx 常用的正则匹配、rewrite 指令、全局变量,以及防盗链、域名跳转、HTTPS 跳转等常见配置实例。
 ---
 
 本文整理 Nginx 日常配置中最常用的内容:正则匹配符、文件判断、rewrite 指令与 flag、常见规则实例、全局变量,以及与 Apache 规则的对应关系。

@@ -5,7 +5,6 @@ tags:
   - MySQL
 categories:
   - 数据库
-description: 整理 Percona Toolkit 中常用的工具用法:在线改表、主从数据校验与修复、数据归档、慢查询杀死与分析、重复索引检查。
 ---
 
 Percona Toolkit(简称 `pt` 工具集)是一组用于 MySQL 运维的命令行工具,可以在线修改表结构、校验和修复主从数据、归档数据、分析慢日志等。本文整理其中最常用的几个工具的典型用法。
