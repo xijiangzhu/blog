@@ -98,7 +98,7 @@ params:
 
   comments: true
   giscus:
-    repo: xijiangzhu/hugo-blog
+    repo: xijiangzhu/blog
     repoId: "R_kgDOVKh0Uw"
     category: Announcements
     categoryId: "DIC_kwDOVKh0U84DIfVj"
