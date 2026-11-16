@@ -5,7 +5,6 @@ tags:
   - Kubernetes
 categories:
   - K8S
-description: 从零搭建高可用 etcd 集群，涵盖 cfssl 证书签发、节点配置、集群启动与健康检查，适用于 Kubernetes 控制平面基础设施部署。
 ---
 
 本文记录了在 Linux 环境下使用 `cfssl` 工具从零开始签发证书并部署高可用 `etcd` 集群的完整步骤。
